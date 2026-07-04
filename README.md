@@ -51,8 +51,8 @@ The repository is organized as follows:
 * Code of all algorithms used in our computational experiments is provided in the folder "sourcecode". 
 * List of .cpp files in the subfolder "src":
   1. S0: code for S0
-  2. S1：code for S1
-  3. S2：code for S2
+  2. S1: code for S1
+  3. S2: code for S2
   4. CPLEX: code for running CPLEX on model P 
   5. NC: code for NC
   6. MD: code for MD
