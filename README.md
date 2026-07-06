@@ -32,7 +32,7 @@ Below is the BibTex for citing this snapshot of the repository.
 ## Description
 
 - Code supplement for the paper "Optimizing Freight Procurement for Transportation-Inventory Systems Under Supply and Demand Uncertainty" by Lingxiao Wu, Wenxuan Shan, Yossiri Adulyasak, and Jean-François Cordeau.
-- The details of the four benchmark methods (NC, MD, HS, and TS) are reported in the PDF file "Benchmark Methods".
+- The details of the four benchmark methods (NC, MD, HS, and TS) are reported in the PDF file "Benchmark Methods"(Benchmark Methods.pdf).
 - If you need help using the code, please send an email to lingxiaowu513[at]gmail[dot]com.
 - The code and data sets are also available from https://github.com/LingxiaoWu2021/SFPTMP.
 
